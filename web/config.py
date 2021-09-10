@@ -1,1 +1,1 @@
-password = 'hello'
+otherString = 'hello'
