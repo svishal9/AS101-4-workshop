@@ -1,3 +1,5 @@
 fileignoreconfig:
 - filename: danger.pem
   checksum: b4a00883406449dd0aa55bbfe6362afc1227f4f444427d019c91ca4ff90590d7
+- filename: docker-compose.yml
+  checksum: 041cf7d5ba27c545cf1b76277d0c293431fcbe4d389b0e4025fb6182a6cbe523
